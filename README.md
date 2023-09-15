@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Cepheus08
+- 👋 Hi, I’m Ananya Jalonha
+- 
 - 👀 I’m interested in AI 
 
 <!---

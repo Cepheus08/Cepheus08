@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ananya Jalonha
-- 
-- 👀 I’m interested in AI 
+- AI, Graphic Designer, Data Science 
 
 <!---
 Cepheus08/Cepheus08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
